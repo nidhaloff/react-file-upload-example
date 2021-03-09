@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3c39539-139a-4847-993b-36eb7e6f75fb/resourceGroups/personal-website/providers/Microsoft.Web/sites/Tfile",
+    "appService.deploySubpath": "build"
+}
